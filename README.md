@@ -1,5 +1,5 @@
 ## Context
-ABC gorcery store line opened a new store in January of 2018. They would like to understand the sales pattern at this store so that they can decide whether to invest more money into this store, or move their business somewhere else.
+ABC gorcery store company opened a new store in January of 2018. They would like to understand the sales pattern at this store so that they can decide whether to invest more money into this store, or move their business to another location.
 ## Some Discovery from Analysis
 * The store makes the most money between June and August.
 * The store experiences better sales on Mondays and Tuesdays than on the weekends.
